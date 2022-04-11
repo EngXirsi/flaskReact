@@ -3,7 +3,7 @@
 Hi !
 This is a two part article. In the first part, we will connect react with flask and use webpack for transpiling JSX to browser readable JavaScript. In the second part, I'll talk about passing data from flask to react and vice-versa.
 
-__GitHub Repo: https://github.com/IceWreck/Flask-React-Boilerplate__ 
+
 
 
 ## Exploring Different Solutions
